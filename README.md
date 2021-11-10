@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy Mondal</h1>
-<h3 align="center">This Is Html Calculator.</h3>
+<h3 align="center">This Is Html Calculator </h3>
 
-- 🔭 This Is [HTML Calculator](https://codewithjoymondal.com/joycalculator.html)
+- 🔭 This Is Html Calculator : [Previewe](https://codewithjoymondal.com/joycalculator.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
